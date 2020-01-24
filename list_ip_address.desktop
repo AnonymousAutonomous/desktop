@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Exec=/home/anonymous4/anon_auton_ws/src/bash_scripts/ip_address.sh
+Icon=/home/anonymous4/anon_auton_ws/src/bash_scripts/icons/ip.png
+Name=IP Address
+GenericName=IP Address
+Comment=List the IP Address of this Pi
+Encoding=UTF-8
+Terminal=true
+Type=Application
+Categories=Application;
