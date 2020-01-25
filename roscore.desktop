@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Exec=/home/anonymous4/anon_auton_ws/src/bash_scripts/roscore.sh
+Icon=/home/anonymous4/anon_auton_ws/src/bash_scripts/icons/ip.png
+Name=Roscore
+GenericName=Roscore
+Comment=Start roscore
+Encoding=UTF-8
+Terminal=true
+Type=Application
+Categories=Application;

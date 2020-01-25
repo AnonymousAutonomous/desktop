@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Exec=/home/anonymous4/anon_auton_ws/src/bash_scripts/simple_motors.sh
+Icon=/home/anonymous4/anon_auton_ws/src/bash_scripts/icons/ip.png
+Name=Simple Motors
+GenericName=Simple Motors
+Comment=Start roscore, simple motors trigger and listener
+Encoding=UTF-8
+Terminal=true
+Type=Application
+Categories=Application;
