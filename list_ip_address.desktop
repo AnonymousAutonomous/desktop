@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Exec=/home/anonymous4/anon_auton_ws/src/bash_scripts/ip_address.sh
+Exec=/home/anonymous4/anon_auton_ws/src/bash_scripts/debug/ip_address.sh
 Icon=/home/anonymous4/anon_auton_ws/src/bash_scripts/icons/ip.png
 Name=IP Address
 GenericName=IP Address
